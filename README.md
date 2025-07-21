@@ -13,5 +13,4 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 # Videos ilustrativos
-
-/home/fernando/Vídeos/Grabaciones de la pantalla/Grabación de pantalla desde 2025-07-19 17-26-02.webm
+[Directorios.webm](https://github.com/user-attachments/assets/76b402e1-253d-4a0a-bcdd-1d21846e2089)
